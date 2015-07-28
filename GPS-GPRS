@@ -18,6 +18,15 @@ void setup(){
   Serial.begin(115200);    // the GPRS baud rate 
  
   GPS.begin(9600);
+  pinMode(9, OUTPUT);
+  digitalWrite(9,LOW);
+  delay(100);
+  digitalWrite(9,HIGH);
+  delay(500);
+  digitalWrite(9,LOW);
+  delay(100);
+  pinMode(13, OUTPUT);
+  digitalWrite(13,LOW);
   GPS.sendCommand(PMTK_SET_NMEA_OUTPUT_RMCGGA);
   GPS.sendCommand(PMTK_SET_NMEA_UPDATE_1HZ);   // 1 Hz update rate
   useInterrupt(true);

@@ -34,8 +34,8 @@ SIM card with data plan [T-Mobile link](http://www.tmobile.com)
 
 ### Costs
 
-Arduino board $115
-SIM card with data plan $20/month
+Arduino board $115  
+SIM card with data plan $20/month  
 
 #### Software
 
@@ -56,4 +56,6 @@ Contact Code for MIA
 ## License
 Code for America [LICENSE.md file](https://github.com/codeforamerica/ceviche-cms/blob/master/LICENCE.md).
 
-## 
+## More Information
+
+Wiki of discussion of Miami-Dade county's bus tracking system ([Wiki link](https://github.com/herrdragon/busTrackingGps/wiki))  

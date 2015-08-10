@@ -28,6 +28,14 @@ Code for Miami
 ## How
 #### Hardware
 
+Arduino board [Amazon link](http://www.amazon.com)  
+Case for Arduino board [Amazon link](http://www.amazon.com)  
+SIM card with data plan [T-Mobile link](http://www.tmobile.com)  
+
+### Costs
+
+Arduino board $115
+SIM card with data plan $20/month
 
 #### Software
 
@@ -47,3 +55,5 @@ Contact Code for MIA
 
 ## License
 Code for America [LICENSE.md file](https://github.com/codeforamerica/ceviche-cms/blob/master/LICENCE.md).
+
+## 

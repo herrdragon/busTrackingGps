@@ -1,4 +1,5 @@
 # Bus Tracking GPS
+
 Included original Ada Fruit GPS program, original GPRS HTTP POST program (from Pachube), and both programs combined and modified
 which is the one that is actually loaded to the Arduino.
 Just copy the combined program to the Arduino SDK and uploaded to the Arduino.
@@ -32,7 +33,7 @@ Arduino board ([RadioShack link](http://comingsoon.radioshack.com/arduino-uno-re
 GSM board ([RadioShack link](http://comingsoon.radioshack.com/seeed-sld01098p-gprs-gsm-shield-v2-0/2760386.html))  
 GPS board ([Adafruit link](http://www.adafruit.com/products/746))  
 Case for Arduino board ([Amazon link](http://www.amazon.com/gp/product/B003ZKJNVY/))  
-SIM card with data plan ([T-Mobile link](http://www.tmobile.com))  
+SIM card with data plan ([T-Mobile link](http://www.t-mobile.com))  
 
 ### Costs
 
@@ -44,7 +45,8 @@ SIM card with data plan $20/month
 
 #### Software
 
-Miami Transit API
+[Miami Transit API](https://github.com/CyberStrike/miami-transit-api)
+[LeafletTransit](https://github.com/Code-for-Miami/LeafletTransit)
 
 #### Deploy
 

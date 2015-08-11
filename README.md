@@ -28,13 +28,18 @@ Code for Miami
 ## How
 #### Hardware
 
-Arduino board [Amazon link](http://www.amazon.com)  
-Case for Arduino board [Amazon link](http://www.amazon.com)  
-SIM card with data plan [T-Mobile link](http://www.tmobile.com)  
+Arduino board ([RadioShack link](http://comingsoon.radioshack.com/arduino-uno-rev-3/2760128.html))  
+GSM board ([RadioShack link](http://comingsoon.radioshack.com/seeed-sld01098p-gprs-gsm-shield-v2-0/2760386.html))  
+GPS board ([Adafruit link](http://www.adafruit.com))
+Case for Arduino board ([Amazon link](http://www.amazon.com/gp/product/B003ZKJNVY/))  
+SIM card with data plan ([T-Mobile link](http://www.tmobile.com))  
 
 ### Costs
 
-Arduino board $115  
+Arduino board $25
+GSM board $60
+GPS board $40
+Case for Arduino board $9
 SIM card with data plan $20/month  
 
 #### Software

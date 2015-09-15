@@ -54,7 +54,10 @@ See the wiki for [Installation](../../wiki/Installation) and assembly instructio
 
 #### Testing
 
-TO-DO
+1) Connect GPS Tracker to USB power supply in the vehicle.  
+2) Place tracker in a location open to the sky for a good GPS signal.  
+3) Wait about 5 minutes for the signal to be obtained.  
+4) Open the Code for Miam LeafletTransit web app to view the location of the GPS Tracker.  
 
 ## Contribute
 

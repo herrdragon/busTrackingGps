@@ -50,7 +50,7 @@ SIM card with data plan $40/month
 
 #### Deploy
 
-See the wiki for [Installation](./wiki/Installation) and assembly instructions.
+See the wiki for [Installation](../../wiki/Installation) and assembly instructions.
 
 #### Testing
 

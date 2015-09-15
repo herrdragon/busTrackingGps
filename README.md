@@ -8,7 +8,7 @@ The GPRS Shield is from SeeedStudio.
 
 #### Status
 
-TO-DO (Beta)
+Beta (Testing in progress)
 
 #### Screenshots
 
@@ -50,7 +50,7 @@ SIM card with data plan $40/month
 
 #### Deploy
 
-TO-DO
+See the wiki for [Installation](./wiki/Installation) and assembly instructions.
 
 #### Testing
 

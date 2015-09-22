@@ -6,6 +6,8 @@ Just copy the combined program to the Arduino SDK and uploaded to the Arduino.
 For GPS model and wiring visit https://learn.adafruit.com/adafruit-ultimate-gps/arduino-wiring.
 The GPRS Shield is from SeeedStudio.
 
+### See the [Installation wiki](https://github.com/herrdragon/busTrackingGps/wiki/Installation) page for more details
+
 #### Status
 
 Beta (Testing in progress)
